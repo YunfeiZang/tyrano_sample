@@ -1,10 +1,10 @@
-# 走るか寝るかするメロス
+# 勇者対怪物
 
 ## 概要
 
-ティラノスクリプトのサンプルコード。
+授業用に改変した。画像・音楽・効果音等はめんどいのでないです…。
 
-* [テストプレイ](https://appi-github.github.io/tyrano_sample/)
+* [テストプレイ](https://YunfeiZang.github.io/tyrano_sample/)
 
 ## ライセンス
 
